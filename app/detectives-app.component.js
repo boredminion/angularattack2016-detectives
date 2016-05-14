@@ -15,7 +15,7 @@ var DetectivesApp = (function () {
     DetectivesApp = __decorate([
         core_1.Component({
             selector: 'detectives-app',
-            template: '<pre>Detective</pre>'
+            template: '<pre>Detectives</pre>'
         }), 
         __metadata('design:paramtypes', [])
     ], DetectivesApp);
