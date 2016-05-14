@@ -2,7 +2,7 @@ import {Component} from '@angular/core';
 
 @Component({
 	selector: 'detectives-app',
-	template: '<pre>Detective</pre>'
+	template: '<pre>Detectives</pre>'
 })
 export class DetectivesApp {
 	
