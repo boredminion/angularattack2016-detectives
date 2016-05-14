@@ -1,8 +1,8 @@
 (function(app) {
   app.AppComponent =
     ng.core.Component({
-      selector: 'my-app',
-      template: '<h1>AngularAttack 2016</h1><p>Your project runs!</p>'
+      selector: 'detectives-app',
+      template: '<pre>AngularAttack 2016</pre>'
     })
     .Class({
       constructor: function() {}
