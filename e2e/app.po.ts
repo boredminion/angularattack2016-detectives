@@ -4,6 +4,6 @@ export class DetectivesPage {
   }
 
   getParagraphText() {
-    return element(by.css('detectives-app h1')).getText();
+    return element(by.css('detectives-app p')).getText();
   }
 }
