@@ -1,7 +1,7 @@
 {
   "name": "detectives",
-  "version": "0.0.0",
-  "license": "MIT",
+  "version": "0.0.9",
+  "license": "UNLICENSED",
   "angular-cli": {},
   "scripts": {
     "start": "ng server",
