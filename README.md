@@ -12,4 +12,4 @@ Detectives is all about bringing a tree of components to life.
 * `git clone git@github.com:rumblex/angularattack2016-detectives.git`
 * `cd angularattack2016-detectives`
 * `npm install`
-* `npm start` will start the server locally - you're on your way to Detectives
+* `npm serve` will start the server locally - you're on your way to Detectives
