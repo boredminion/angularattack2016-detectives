@@ -5,5 +5,4 @@ import { DetectivesAppComponent, environment } from './app/';
 if (environment.production) {
   enableProdMode();
 }
-
 bootstrap(DetectivesAppComponent);
