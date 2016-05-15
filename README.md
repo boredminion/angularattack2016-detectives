@@ -1,12 +1,13 @@
-# [Doug](http://detectives.2016.angularattack.io/)
+# [Doug VSF](http://detectives.2016.angularattack.io/)
+## Vector Sprite Framework for Angular 2
 
-Doug is a vector sprite component. He is made of three things. 
+Doug is a vector sprite. He is made of three things: 
 
-* __TS__ One Typescript file
-* __CSS__ One CSS stylesheet
-* __HTML__ An HTML5 template containing the vector path information
+* One Typescript file
+* One CSS stylesheet
+* An HTML5 template containing the vector path information
 
-But Doug isn't alone in the world. Any noun can be a Doug.
+This works great with webpack as there are no actual SVG files or images. The result is a very small tree of living vector components which are easy to edit and organize. Welcome to Doug's world! 
 
 #### Links
 
