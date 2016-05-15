@@ -1,6 +1,12 @@
 # [Doug](http://detectives.2016.angularattack.io/)
 
-SVG is XML and that works great with Angular 2. Doug is a tree of vector sprite components. There are no images or actual SVG files contained in Doug. Each sprite is a Typescript file, a CSS stylesheet and an HTML snippet containing the visual content. When Angular2 animation is ready, we'll be adding that into the mix.
+Doug is a tree of vector sprite components. He is made of three things. 
+
+* A Typescript file
+* A CSS stylesheet
+* An HTML5 snippet containing the path information
+
+> When Angular2 animation is ready, we'll be adding that into the mix.
 
 ### Links
 
