@@ -1,12 +1,10 @@
 # [Doug](http://detectives.2016.angularattack.io/)
 
-Doug is a tree of vector sprite components. He is made of three things. 
+Doug is a vector sprite component. He is made of three things. 
 
 * __TS__ One Typescript file
 * __CSS__ One CSS stylesheet
 * __HTML__ An HTML5 template containing the vector path information
-
-> When Angular2 animation is ready, we'll be adding that into the mix.
 
 But Doug isn't alone in the world. Any noun can be a Doug.
 
@@ -20,6 +18,8 @@ But Doug isn't alone in the world. Any noun can be a Doug.
 
 * [Angular 2](https://github.com/angular/quickstart) as the structural framework
 * [Webpack Module Bundler](https://github.com/webpack/webpack) as the static asset generator
+
+> When Angular2 animation is ready, we'll be adding that into the mix.
 
 ### Installation
 
