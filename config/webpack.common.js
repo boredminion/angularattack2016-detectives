@@ -9,11 +9,9 @@ module.exports = {
     'vendor': './src/vendor.ts',
     'app': './src/main.ts'
   },
-
   resolve: {
     extensions: ['', '.js', '.ts']
   },
-
   module: {
     loaders: [
       {
@@ -45,7 +43,6 @@ module.exports = {
     new webpack.optimize.CommonsChunkPlugin({
       name: ['app', 'vendor', 'polyfills']
     }),
-
     new HtmlWebpackPlugin({
       template: 'src/index.html'
     })
