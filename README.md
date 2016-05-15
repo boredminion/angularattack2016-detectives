@@ -1,10 +1,10 @@
 # [Detectives](http://detectives.2016.angularattack.io/)
 
-How do you animate in ng2? The answer to that question is what we set out to answer this weekend. Following a trail of clues the answers are becoming clear.
+How do you animate in Angular 2? The answer to that question is what we set out to answer this weekend. Following a trail of clues the answers are becoming clear.
 
 * [Production Site on Surge](http://detectives.2016.angularattack.io/)
-* [Angular Attack Team Site](https://www.angularattack.com/entries/3433-the-detectives)
-* [Angular Attack GIT Repo](https://github.com/rumblex/angularattack2016-detectives)
+* [Team Site on Angular Attack](https://www.angularattack.com/entries/3433-the-detectives)
+* [GIT Repo](https://github.com/rumblex/angularattack2016-detectives)
 
 ### Technology
 
