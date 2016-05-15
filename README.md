@@ -1,16 +1,18 @@
 # [Detectives](http://detectives.2016.angularattack.io/)
 
-How do you animate in ng2? The answer to that question is what we set out to answer this weekend. Through a trail of clues - Google Docs, Youtube videos and repository investigations.. the answers are becoming clear.
+How do you animate in ng2? The answer to that question is what we set out to answer this weekend. Following a trail of clues the answers are becoming clear.
+
+* [Angular Attack Team Site](https://www.angularattack.com/entries/3433-the-detectives)
 
 ### Technology
 
 Shoulders of giants, here they are for this project:
 
-* [Angular 2](https://github.com/angular/quickstart)
-* [Webpack Module Bundler](https://github.com/webpack/webpack) Static Asset Generator
-* [snabbt](https://github.com/daniel-lundin/snabbt.js) Animation
-* [vivus](https://github.com/maxwellito/vivus) SVG Animation
-* [HTML5 Gamepad Controller](https://github.com/kallaspriit/HTML5-JavaScript-Gamepad-Controller-Library) Controller Support
+* [Angular 2](https://github.com/angular/quickstart) structural framework
+* [Webpack Module Bundler](https://github.com/webpack/webpack) static asset generator
+* [snabbt](https://github.com/daniel-lundin/snabbt.js) animation
+* [vivus](https://github.com/maxwellito/vivus) SVG animation
+* [HTML5 Gamepad Controller](https://github.com/kallaspriit/HTML5-JavaScript-Gamepad-Controller-Library) controller support
 
 ### Installation
 
