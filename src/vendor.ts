@@ -8,5 +8,4 @@ import '@angular/router-deprecated';
 // RxJS
 import 'rxjs';
 // @todo fix the extra copy
-require("file?name=favicon.ico!../public/favicon.ico"); // Creates an extra copy in assets
-require("file?name=CNAME!../CNAME"); // Required for Surge
+require("file?name=CNAME!../public/CNAME"); // Required for Surge
