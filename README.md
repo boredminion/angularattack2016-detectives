@@ -1,10 +1,16 @@
 # [Detectives](http://detectives.2016.angularattack.io/)
 
-This is our AngularAttack 2016 entry, Detectives.
+How do you animate in Angular2? The answer to that question is what we set out to answer this weekend. Through a trail of clues - Google Docs, Youtube videos and repository investigations.. the answers are becoming clear.
 
-### About
+### Decription
 
-Detectives is all about bringing a tree of components to life.
+A living tree of components. Investigate to find the truth.
+
+## Build Tool
+
+To get a tiny version of this app, we're using WebPack.
+
+![Webpack](http://devric.github.io/articles/20apr14-webpack/logo.png)
 
 ### Installation
 
