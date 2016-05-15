@@ -4,4 +4,4 @@ import { AppComponent } from './app/app.component';
 if (process.env.ENV === 'production') {
   enableProdMode();
 }
-bootstrap(AppComponent, []);
+bootstrap(AppComponent, []).catch(err => console.log(err));

@@ -1,8 +1,8 @@
-# [Detectives](http://detectives.2016.angularattack.io/)
+# [Doug](http://detectives.2016.angularattack.io/)
 
-How do you animate in Angular 2? The answer to that question is what we set out to answer this weekend. Following a trail of clues the answers are becoming clear.
+SVG is XML and that works great with Angular 2. Doug is a tree of vector sprite components. There are no images or actual SVG files contained in Doug. Each sprite is a Typescript file, a CSS stylesheet and an HTML snippet containing the visual content. When Angular2 animation is ready, we'll be adding that into the mix.
 
->  I can already see the end result will not be using actual ng2 animation decorators 
+### Links
 
 * [Production Site on Surge](http://detectives.2016.angularattack.io/)
 * [Team Site on Angular Attack](https://www.angularattack.com/entries/3433-the-detectives)
@@ -12,14 +12,6 @@ How do you animate in Angular 2? The answer to that question is what we set out 
 
 * [Angular 2](https://github.com/angular/quickstart) as the structural framework
 * [Webpack Module Bundler](https://github.com/webpack/webpack) as the static asset generator
-* [HTML5 Gamepad Controller](https://github.com/kallaspriit/HTML5-JavaScript-Gamepad-Controller-Library) for controller support
-
-### Animation Libraries
-
-> After failing to deploy Matias Niemelä's [ng-conf-demo](https://github.com/matsko/ng-conf-demos) to Surge, I found a few animation libraries to use for this weekend. The demos worked great locally though!
-
-* [snabbt](https://github.com/daniel-lundin/snabbt.js) for animation
-* [vivus](https://github.com/maxwellito/vivus) for SVG animation
 
 ### Installation
 
