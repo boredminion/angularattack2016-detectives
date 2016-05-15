@@ -5,8 +5,10 @@ How do you animate in ng2? The answer to that question is what we set out to ans
 ## Technology Used
 
 * [Angular 2](https://github.com/angular/quickstart)
-* [Webpack Module Bundler](https://webpack.github.io/)
-* 
+* [Webpack Module Bundler](https://github.com/webpack/webpack) Static Asset Generator
+* [snabbt](https://github.com/daniel-lundin/snabbt.js) Animation
+* [vivus](https://github.com/maxwellito/vivus) SVG Animation
+* [HTML5 Gamepad Controller](https://github.com/kallaspriit/HTML5-JavaScript-Gamepad-Controller-Library) Controller Support
 
 ### Installation
 
