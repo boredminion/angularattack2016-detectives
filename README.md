@@ -10,16 +10,16 @@ How do you animate in Angular 2? The answer to that question is what we set out 
 
 ### Base Libraries
 
-* [Angular 2](https://github.com/angular/quickstart) structural framework
-* [Webpack Module Bundler](https://github.com/webpack/webpack) static asset generator
-* [HTML5 Gamepad Controller](https://github.com/kallaspriit/HTML5-JavaScript-Gamepad-Controller-Library) controller support
+* [Angular 2](https://github.com/angular/quickstart) as the structural framework
+* [Webpack Module Bundler](https://github.com/webpack/webpack) as the static asset generator
+* [HTML5 Gamepad Controller](https://github.com/kallaspriit/HTML5-JavaScript-Gamepad-Controller-Library) for controller support
 
 ### Animation Libraries
 
 > After failing to deploy Matias Niemelä's [ng-conf-demo](https://github.com/matsko/ng-conf-demos) to Surge, I found a few animation libraries to use for this weekend. The demos worked great locally though!
 
-* [snabbt](https://github.com/daniel-lundin/snabbt.js) animation
-* [vivus](https://github.com/maxwellito/vivus) SVG animation
+* [snabbt](https://github.com/daniel-lundin/snabbt.js) for animation
+* [vivus](https://github.com/maxwellito/vivus) for SVG animation
 
 ### Installation
 
