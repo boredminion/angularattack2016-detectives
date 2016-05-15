@@ -1,5 +1,6 @@
 # [Doug VSF](http://detectives.2016.angularattack.io/)
-## Vector Sprite Framework for Angular 2
+
+#### Vector Sprite Framework for Angular 2
 
 Doug is a vector sprite. He is made of three things: 
 
@@ -12,17 +13,17 @@ This works great with webpack as there are no actual SVG files or images. The re
 #### Links
 
 * [View Doug Live in Production](http://detectives.2016.angularattack.io/)
-* [Team Site on Angular Attack](https://www.angularattack.com/entries/3433-the-detectives)
-* [GIT Repo](https://github.com/rumblex/angularattack2016-detectives)
+* [View Doug's Source Code at Git](https://github.com/rumblex/angularattack2016-detectives)
+* [Our Site on Angular Attack](https://www.angularattack.com/entries/3433-the-detectives)
 
-#### Base Libraries
+#### Libraries
 
 * [Angular 2](https://github.com/angular/quickstart) as the structural framework
 * [Webpack Module Bundler](https://github.com/webpack/webpack) as the static asset generator
 
 > When Angular2 animation is ready, we'll be adding that into the mix.
 
-### Installation
+#### Install
 
 First, make sure you have the latest [Node](https://nodejs.org)
 
@@ -30,10 +31,10 @@ First, make sure you have the latest [Node](https://nodejs.org)
 * `cd angularattack2016-detectives`
 * `npm install`
 
-## Develop
+#### Edit
 
 * `npm start` will start the server locally - you're on your way to Detectives
 
-## Production
+#### Deploy
 
 * `npm run build` creates a small static package in the /dist folder
