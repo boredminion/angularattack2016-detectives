@@ -1,8 +1,10 @@
-# [Doug VSF](http://detectives.2016.angularattack.io/)
+# [Doug](http://detectives.2016.angularattack.io/)
 
-#### Vector Sprite Framework for Angular 2
+Doug is a vector sprite.
 
-Doug is a vector sprite. He is made of three things: 
+![Doug](https://s3.amazonaws.com/sonipa/doug.jpg "Doug")
+
+He is made of three things: 
 
 * One Typescript file
 * One CSS stylesheet
