@@ -16,7 +16,7 @@ How do you animate in Angular 2? The answer to that question is what we set out 
 
 ### Animation Libraries
 
-> After failing to deploy Matias Niemelä's ng-conf-demo to Surge, I found a few animation libraries that may be useful in the meantime. It worked great locally though!
+> After failing to deploy Matias Niemelä's ng-conf-demo to Surge, I found a few animation libraries to use in the meantime. ng-conf-demo worked great locally though!
 
 * [snabbt](https://github.com/daniel-lundin/snabbt.js) animation
 * [vivus](https://github.com/maxwellito/vivus) SVG animation
