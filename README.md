@@ -2,16 +2,17 @@
 
 Doug is a tree of vector sprite components. He is made of three things. 
 
-* TS A Typescript file
-* A CSS stylesheet
-* An HTML5 snippet containing the path information
+* __TS__ One Typescript file
+* __CSS__ One CSS stylesheet
+* __HTML__ An HTML5 template containing the vector path information
 
 > When Angular2 animation is ready, we'll be adding that into the mix.
 
-## * [View Doug Now on Surge](http://detectives.2016.angularattack.io/)
+But Doug isn't alone in the world. Any noun can be a Doug.
 
 #### Links
 
+* [View Doug Live in Production](http://detectives.2016.angularattack.io/)
 * [Team Site on Angular Attack](https://www.angularattack.com/entries/3433-the-detectives)
 * [GIT Repo](https://github.com/rumblex/angularattack2016-detectives)
 
