@@ -2,7 +2,9 @@
 
 How do you animate in ng2? The answer to that question is what we set out to answer this weekend. Through a trail of clues - Google Docs, Youtube videos and repository investigations.. the answers are becoming clear.
 
-## Technology Used
+### Technology
+
+Shoulders of giants, here they are for this project:
 
 * [Angular 2](https://github.com/angular/quickstart)
 * [Webpack Module Bundler](https://github.com/webpack/webpack) Static Asset Generator
@@ -12,7 +14,8 @@ How do you animate in ng2? The answer to that question is what we set out to ans
 
 ### Installation
 
-* Install the latest [Node / NPM](https://nodejs.org)
+First, make sure you have the latest [Node](https://nodejs.org)
+
 * `git clone git@github.com:rumblex/angularattack2016-detectives.git`
 * `cd angularattack2016-detectives`
 * `npm install`
@@ -23,4 +26,4 @@ How do you animate in ng2? The answer to that question is what we set out to ans
 
 ## Production
 
-* `npm run build` creates a small deployable package
+* `npm run build` creates a small static package in the /dist folder
