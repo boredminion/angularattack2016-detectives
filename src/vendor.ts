@@ -8,4 +8,4 @@ import '@angular/router-deprecated';
 // RxJS
 import 'rxjs';
 // @todo fix the extra copy
-require("file?name=CNAME!../public/CNAME"); // Required for Surge
+require("file?name=CNAME!../public/CNAME"); // surge.io
