@@ -2,6 +2,7 @@
   "name": "Detectives",
   "version": "1.0.1",
   "description": "Detectives. Angular Attack 2016. What is it? You will must investigate!",
+  "author":"David Mulhern <david@mulhern.me> (http://davidmulhern.com/)",
   "scripts": {
     "start": "webpack-dev-server --inline --progress --colors --port 8080",
     "test": "karma start",
@@ -9,6 +10,7 @@
     "postinstall": "typings install"
   },
   "license": "UNLICENSED",
+  "repository": "github:rumblex/angularattack2016-detectives",
   "dependencies": {
     "@angular/common": "2.0.0-rc.1",
     "@angular/compiler": "2.0.0-rc.1",
