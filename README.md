@@ -2,11 +2,6 @@
 
 How do you animate in ng2? The answer to that question is what we set out to answer this weekend. Through a trail of clues - Google Docs, Youtube videos and repository investigations.. the answers are becoming clear.
 
-## About
-
-A page can be a living tree of components. 
-Investigate to find the truth.
-
 ## Technology Used
 
 * [Angular 2](https://github.com/angular/quickstart)
